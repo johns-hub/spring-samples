@@ -5,6 +5,9 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * https://www.logicbig.com/tutorials/spring-framework/spring-core/dependency-check.html
+ */
 @Configuration
 public class AutowiredExample {
 
